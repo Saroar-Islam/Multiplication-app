@@ -61,6 +61,22 @@ input:focus {
     text-align: right;
 }
 
+.demo {
+    display: flex;
+    justify-content: space-around;
+}
+
+.lastAns {
+    color: black;
+}
+
+/* .correct {
+    color: green;
+}
+.incorrect {
+    color: red;
+} */
+
 .reset {
     background-color: red;
     color: white;
